@@ -58,11 +58,11 @@ body {
     color: #5ba7d1;
 }
 
-.tsn { 
+.tsm { 
     height: 8px; 
 }
 
-.sn { 
+.sm { 
      text-align: justify;
      padding-left: 10px;
      padding-right: 10px; 
@@ -98,7 +98,7 @@ footer {
     botton: 0;
     width: 100px;
 }
-.geral br {
+.geral hr {
     width: 95%; 
 }
 
